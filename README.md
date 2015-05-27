@@ -1,0 +1,11 @@
+# apk2source-python
+extract all the source files given any android apk file
+!!NOTE!!.txt
+The share.apk file in this folder is just a test folder 
+just remove this file and rename the apk to be decoded as share.apk
+and pate it in to this directory for decoding
+the double click Decoder.py
+follow onscreen intructions
+then cut the Decoded_APK folder that contains the source code of the .apk file
+
+ENJOY !!!!!!!!!!
